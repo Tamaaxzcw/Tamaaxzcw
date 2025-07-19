@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated-welcome" width="300"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Daffa Aditya Pratama (Daffa)</h1>
+<h1 align="center">Hi 👋, I'm Daffa Aditya Pratama (Daffa/Tama)</h1>
 <h3 align="center">Web Developer & WhatsApp Bot Explorer from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -91,12 +91,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambatukam6969&show_icons=true&theme=dracula&line_height=27&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambatukam6969&layout=compact&theme=dracula&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tamaaxzcw&show_icons=true&theme=dracula&line_height=27&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaaxzcw&layout=compact&theme=dracula&hide_border=true" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambatukam6969&theme=dark&hide_border=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaaxzcw&theme=dark&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
 ### 🏆 Trofi & Pencapaian
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ambatukam6969&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamaaxzcw&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"/>
 </p>
 
 ---
