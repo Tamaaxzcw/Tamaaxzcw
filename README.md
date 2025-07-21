@@ -1,146 +1,95 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated-welcome" width="300"/>
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Daffa Aditya Pratama
+    <br>
+    <a href="https://github.com/Tamaaxzcw" style="text-decoration: none;">(Daffa / Tama)</a>
+  </h1>
+</div>
 
-<h1 align="center">Hi 👋, I'm Daffa Aditya Pratama (Daffa/Tama)</h1>
-<h3 align="center">Web Developer & WhatsApp Bot Explorer from Indonesia 🇮🇩</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ambatukam1691&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</p>
-
----
-
-### 🧩 Tentang Saya
-
-- 🔭 **Proyek terkini**: Bot WhatsApp AI-integrated dengan fitur cerdas dan percakapan natural.  
-- 🌱 Sedang mengasah: Next.js + TypeScript Advanced Patterns + AI Prompt Engineering.  
-- 👯 Open untuk kolaborasi di: Open-source web, chatbot & proyek AI lokal / edukatif.  
-- 🤔 Butuh masukan soal: Optimasi query DB (MySQL, MongoDB) untuk skala besar?  
-- 💬 Bisa tanya soal: JavaScript, PHP, CSS, Web Dev, Bot WA, atau UX-friendly code.  
-- 📫 Kontak: daffaaditya1691@email.com  
-- ⚡ Fun fact: Fokus ngoding berjam-jam, ditemani kopi + anime OST 🎧  
-
----
-
-### 🧠 Bahasa Pemrograman yang Dipelajari
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
----
-
-### 🖥️ Terminal & Tools Favorit
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCODE-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 🗃️ Database yang Digunakan
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
----
-
-### Fokus Ngoding
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c4eXZmdGE4aXZlZ2J2bXNyODN6bzEybXZoY2d5emc0a2h6ODJldCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" alt="cat hacker" width="200"/>
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-#### Frontend
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40"/>
-</p>
-
-#### Backend & Database
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaaxzcw&show_icons=true&theme=dracula&line_height=27&hide_border=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaaxzcw&layout=compact&theme=dracula&hide_border=true" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamaaxzcw&theme=dark&hide_border=true" width="400"/>
-</p>
-
----
-
-### 🏆 Trofi & Pencapaian
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamaaxzcw&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"/>
-</p>
-
----
-
-### 🎬 Anime Favorit
-
-- **Takopi's Original Sin** (タコピーの原罪)  
-- **Zom 100: Bucket List of the Dead**  
-- **Attack on Titan**  
-- **Jujutsu Kaisen**  
-- **Vinland Saga**  
-- ...dan banyak lagi!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" alt="anime gif" width="300"/>
-</p>
-
----
-
-### 🛠️ Roadmap 2025
-
-- ✅ Rilis versi stabil bot WhatsApp berbasis AI.
-- 📈 Tambah fitur dashboard analytics realtime.
-- 🧠 Pelajari LLM + RAG untuk chatbot lanjutan.
-- 🌱 Bangun komunitas pengembang bot WA lokal.
-- 📹 Bikin video edukasi pendek seputar coding dan bot.
-
----
-
-### 🔗 Sosial Media
-
-<p align="center">
-  <a href="https://instagram.com/riezee16_instagram_anda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+<div align="center">
+  <a href="https://instagram.com/riezee16" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:daffaaditya1691@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:daffaaditya1691@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+<p>
+  I'm a passionate developer from Indonesia.I bring a unique perspective to problem-solving and collaboration in the tech world. I enjoy learning new technologies and building cool projects that can make an impact.
+</p>
+
+- 🔭 I’m currently working on developing my skills in cloud computing and microservices.
+- 🌱 I’m currently learning **Go Language and Kubernetes**.
+- 📫 How to reach me: **daffaaditya1691@gmail.com**
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="center">
+  <strong>Languages:</strong><br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/></a>
+</p>
+<p align="center">
+  <strong>Frontend Development:</strong><br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/></a>
+  <a href="#"><img 
+</p>
+<p align="center">
+  <strong>Backend Development:</strong><br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>
+</p>
+<p align="center">
+  <strong>Databases:</strong><br>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a>
+</p>
+<p align="center">
+  <strong>Tools & Platforms:</strong><br>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamaaxzcw&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Tamaaxzcw's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamaaxzcw&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamaaxzcw&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
